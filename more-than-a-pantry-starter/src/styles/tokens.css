@@ -1,0 +1,16 @@
+:root {
+  --color-bg: #fffaf4;
+  --color-surface: #ffffff;
+  --color-text: #23201d;
+  --color-muted: #6b625b;
+  --color-primary: #8b3f2f;
+  --color-primary-dark: #61291f;
+  --color-secondary: #f1dfc7;
+  --color-border: #eadccc;
+  --shadow-soft: 0 18px 45px rgba(62, 36, 24, 0.12);
+
+  --font-body: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --max-width: 1120px;
+}
