@@ -14,13 +14,6 @@ Create a modern, mobile-friendly website for MORE THAN A PANTRY that helps users
 | 4 | Volunteer Sign-Up | List opportunities and collect interest | Not Started |
 | 5 | Impact Section | Show stats, stories, and community outcomes | Not Started |
 
-## Open Technical Decisions
-
-- What platform will be used for final build?
-- What donation provider will the client approve?
-- Who will maintain the website after launch?
-- Should volunteer sign-up be a form, calendar, or email contact flow?
-- Does the client want a newsletter integration?
 
 ## Design Requirements
 
