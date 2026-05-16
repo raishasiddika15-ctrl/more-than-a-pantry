@@ -32,10 +32,6 @@ Each teammate should answer:
 - Handles forms/integrations
 - Tests responsiveness and functionality
 
-### Content Lead
-- Simplifies copy
-- Organizes information
-- Makes site easier to scan
 
 ## Pull Request Template
 
