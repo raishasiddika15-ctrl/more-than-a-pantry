@@ -1,6 +1,5 @@
 # Client Questions Log
 
-Use this during client meetings.
 
 ## Immediate Priority Questions
 
